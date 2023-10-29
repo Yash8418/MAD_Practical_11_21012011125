@@ -1,4 +1,4 @@
-package com.example.mad_practical11_21012011131
+package com.yash.mad_practical_11_21012011125
 
 import android.content.Context
 import android.content.Intent
@@ -9,9 +9,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.yash.mad_practical_11_21012011125.DatabaseHelper
-import com.yash.mad_practical_11_21012011125.MapsActivity
-import com.yash.mad_practical_11_21012011125.R
 import java.io.Serializable
 
 class PersonAdapter(private val context: Context, private val array: ArrayList<Person>): RecyclerView.Adapter<PersonAdapter.PersonViewHolder>(){

@@ -3,7 +3,6 @@ package com.yash.mad_practical_11_21012011125
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.mad_practical11_21012011131.Person
 
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
